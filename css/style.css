@@ -330,11 +330,10 @@ div.btn {
     .main {
         position: relative;
         flex-direction: column;
-        padding: 100px 0 !important;
+        padding: 100px 5% !important;
         padding-bottom: 40px !important;
         padding-top: 72px;
-        left: 32px;
-        right: 32px;
+        
     }
     .main section {
         max-width: 80% !important;
