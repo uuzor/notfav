@@ -311,8 +311,11 @@ div.btn {
     #about > section:last-child {
         width: auto !important;
     }
+    .just_text h1{
+        font-size: 60px !important;
+    }
     .just_text span {
-        font-size: 84px !important;
+        font-size: 60px !important;
     }
 }
 
