@@ -307,6 +307,12 @@ div.btn {
     .main {
         flex-direction: column;
     }
+    #about > section:last-child {
+        width: auto !important;
+    }
+    .just_text span {
+        font-size: 84px !important;
+    }
 }
 
 
