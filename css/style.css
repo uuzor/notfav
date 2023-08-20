@@ -306,7 +306,7 @@ div.btn {
 @media screen and (max-width: 760px) {
     .main {
         flex-direction: column;
-        background-color: #0c0c0c;
+        
     }
     #about > section:last-child {
         width: auto !important;
